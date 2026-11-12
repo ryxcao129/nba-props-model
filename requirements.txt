@@ -1,0 +1,8 @@
+nba_api>=1.4
+pandas>=2.0
+numpy
+scipy
+scikit-learn
+lightgbm>=4.0
+matplotlib
+pyarrow
